@@ -3,5 +3,9 @@ function SeacretToEverything() {
 }
 
 function WhatElse(){
-	alert('what do you mean?')
+	alert('what do you mean?');
+}
+
+function test(){
+	alert("test")
 }
